@@ -1,0 +1,19 @@
+.btn {
+    color: #fff;
+    font-family: serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.list {
+    min-width: 400px;
+    min-height: 500px;
+    background-color: #3023dd;
+}
+
+.list__item {
+    font-weight: 500;
+    font-family: serif;
+    font-size: 20px;
+    color: #fff;
+}
